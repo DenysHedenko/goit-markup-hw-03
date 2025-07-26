@@ -1,4 +1,4 @@
-                    /*common*/
+                /*common*/
 
 body {
     font-family: "Roboto", sans-serif;
@@ -6,13 +6,20 @@ body {
     background-color: #fff;
 }
 
-ul, ol {
+ul,
+ol {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
-h1, h2, h3, h4, h5, h6, p {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
     margin: 0;
 }
 
@@ -30,7 +37,7 @@ img {
     margin: 0 auto;
 }
 
-/*header*/
+                /*header*/
 
 .page-header {
     border-bottom: 1px solid #e7e9fc;
@@ -216,7 +223,6 @@ img {
     background-color: #fff;
     width: calc((100% - 72px) / 4);
     border-radius: 0 0 4px 4px;
-    padding: 0px 0px 32px 0px;
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 }
 
